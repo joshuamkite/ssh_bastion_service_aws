@@ -1,3 +1,5 @@
+#This plan is deprecated. Please see https://github.com/joshuamkite/terraform-aws-ssh-bastion-service
+
 This Terraform deploys an sshd bastion service on AWS:
 ===================================
 
